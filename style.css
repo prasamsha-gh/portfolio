@@ -69,7 +69,6 @@ nav ul li a {
     background-color: #444;
 }
 
-/* About Section */
 #about {
     padding: 60px 20px;
     text-align: center;
@@ -87,7 +86,6 @@ nav ul li a {
     color: #ccc;
 }
 
-/* Skills Section */
 #skills {
     font-size: larger;
     padding: 60px 20px;
@@ -113,7 +111,6 @@ nav ul li a {
     box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
 }
 
-/* Projects Section */
 #projects {
     font-size: larger;
     padding: 60px 20px;
@@ -137,7 +134,6 @@ nav ul li a {
     color: #fff;
 }
 
-/* Contact Section */
 #contact {
     font-size: larger;
     padding: 60px 20px;
@@ -176,7 +172,6 @@ nav ul li a {
     color: #000;
 }
 
-/* Footer */
 footer {
     padding: 20px;
     background-color: #111;
@@ -184,7 +179,6 @@ footer {
     text-align: center;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .skills-container, .projects-container {
         flex-direction: column;
